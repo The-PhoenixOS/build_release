@@ -1,6 +1,6 @@
 flag_value {
   package: "android.app"
-  name: "modes_ui_empty_shade"
+  name: "notification_no_custom_view_conversations"
   state: ENABLED
   permission: READ_WRITE
 }
