@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
-  name: "enable_refactor_task_thumbnail"
+  name: "enable_large_desktop_windowing_tile"
   state: ENABLED
   permission: READ_WRITE
 }
