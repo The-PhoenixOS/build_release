@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "clipboard_use_description_mimetype"
+  name: "screenshot_multidisplay_focus_change"
   state: ENABLED
   permission: READ_WRITE
 }
