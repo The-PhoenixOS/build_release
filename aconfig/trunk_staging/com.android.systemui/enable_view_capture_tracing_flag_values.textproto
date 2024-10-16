@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.systemui"
-  name: "expand_heads_up_on_inline_reply"
+  name: "enable_view_capture_tracing"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }
