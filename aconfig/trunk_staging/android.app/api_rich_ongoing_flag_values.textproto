@@ -1,6 +1,6 @@
 flag_value {
   package: "android.app"
-  name: "notification_no_custom_view_conversations"
+  name: "api_rich_ongoing"
   state: ENABLED
   permission: READ_WRITE
 }
