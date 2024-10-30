@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "get_profile_use_lock"
+  name: "rnr_store_device_type"
   state: ENABLED
   permission: READ_WRITE
 }
