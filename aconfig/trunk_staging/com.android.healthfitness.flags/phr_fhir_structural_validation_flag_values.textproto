@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.healthfitness.flags"
-  name: "personal_health_record_telemetry"
+  name: "phr_fhir_structural_validation"
   state: ENABLED
   permission: READ_ONLY
 }
