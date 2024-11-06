@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "clear_pairing_state_when_no_devrec"
+  name: "adm_fix_disconnect_of_set_member"
   state: ENABLED
   permission: READ_WRITE
 }
