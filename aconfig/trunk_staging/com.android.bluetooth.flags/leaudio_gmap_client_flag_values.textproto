@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "adm_fix_disconnect_of_set_member"
+  name: "leaudio_gmap_client"
   state: ENABLED
   permission: READ_WRITE
 }
