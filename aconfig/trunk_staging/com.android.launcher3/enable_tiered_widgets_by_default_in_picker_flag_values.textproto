@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.launcher3"
+  name: "enable_tiered_widgets_by_default_in_picker"
+  state: ENABLED
+  permission: READ_WRITE
+}
