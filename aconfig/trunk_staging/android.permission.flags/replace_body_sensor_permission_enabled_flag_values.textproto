@@ -1,6 +1,0 @@
-flag_value {
-  package: "android.permission.flags"
-  name: "replace_body_sensor_permission_enabled"
-  state: ENABLED
-  permission: READ_ONLY
-}
