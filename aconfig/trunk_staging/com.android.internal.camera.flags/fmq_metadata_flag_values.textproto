@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.internal.camera.flags"
-  name: "data_delivery_permission_checks"
+  name: "fmq_metadata"
   state: ENABLED
-  permission: READ_ONLY
+  permission: READ_WRITE
 }

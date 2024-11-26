@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.internal.camera.flags"
-  name: "zoom_method"
+  name: "depth_jpeg_extensions"
   state: ENABLED
   permission: READ_WRITE
 }
