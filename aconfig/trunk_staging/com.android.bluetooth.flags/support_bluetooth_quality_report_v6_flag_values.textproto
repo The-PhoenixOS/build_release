@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "leaudio_allow_leaudio_only_devices"
+  name: "support_bluetooth_quality_report_v6"
   state: ENABLED
   permission: READ_WRITE
 }
