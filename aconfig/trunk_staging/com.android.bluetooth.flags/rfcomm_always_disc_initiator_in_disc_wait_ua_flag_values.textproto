@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "leaudio_broadcast_primary_group_selection"
+  name: "rfcomm_always_disc_initiator_in_disc_wait_ua"
   state: ENABLED
   permission: READ_WRITE
 }

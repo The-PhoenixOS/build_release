@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.bluetooth.flags"
-  name: "gatt_clear_cache_on_factory_reset"
+  name: "metadata_api_microphone_for_call_enabled"
   state: ENABLED
   permission: READ_WRITE
 }
