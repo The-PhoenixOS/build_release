@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "enable_desktop_windowing_scvh_cache"
+  name: "system_ui_post_animation_end"
   state: ENABLED
   permission: READ_WRITE
 }
