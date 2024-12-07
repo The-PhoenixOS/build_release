@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.server.telecom.flags"
-  name: "telecom_app_label_proxy_hsum_aware"
+  name: "keep_bluetooth_devices_cache_updated"
   state: ENABLED
   permission: READ_WRITE
 }
