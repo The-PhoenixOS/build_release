@@ -1,4 +1,4 @@
-name:  "RELEASE_AVF_ENABLE_WIDEVINE_PVM"
-value:  {
-  bool_value:  true
+name: "RELEASE_AVF_ENABLE_WIDEVINE_PVM"
+value: {
+  bool_value: true
 }

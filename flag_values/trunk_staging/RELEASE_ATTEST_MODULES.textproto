@@ -1,4 +1,4 @@
 name: "RELEASE_ATTEST_MODULES"
-value {
+value: {
   bool_value: true
 }

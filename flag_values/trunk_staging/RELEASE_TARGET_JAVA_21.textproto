@@ -1,4 +1,4 @@
 name: "RELEASE_TARGET_JAVA_21"
-value {
+value: {
   bool_value: true
 }

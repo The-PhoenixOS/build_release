@@ -1,4 +1,4 @@
 name: "RELEASE_MOVE_VCN_TO_MAINLINE"
-value {
+value: {
   bool_value: true
 }

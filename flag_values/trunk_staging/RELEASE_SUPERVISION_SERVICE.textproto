@@ -1,4 +1,4 @@
-name:  "RELEASE_SUPERVISION_SERVICE"
-value:  {
-  bool_value:  true
+name: "RELEASE_SUPERVISION_SERVICE"
+value: {
+  bool_value: true
 }

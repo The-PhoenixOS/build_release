@@ -1,4 +1,4 @@
 name: "RELEASE_ONDEVICE_INTELLIGENCE_MODULE"
-value {
+value: {
   bool_value: true
 }
